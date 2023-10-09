@@ -1,11 +1,8 @@
 # Vector-Releases
+This client is a beta version  
+I recommend to use [fate-injector](https://github.com/fligger/FateInjector) to use this client  
 
-beta
-
-i recommend to use fate-injector to use this client
-https://github.com/fligger/FateInjector
-
-config location
+## Config Location
 ```
-%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Vector\config
+%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Vector\configs
 ```
