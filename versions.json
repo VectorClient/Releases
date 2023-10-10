@@ -1,9 +1,6 @@
 {
     "latest": "0.3.5",
     "versions": {
-        "0.3.5": {
-            "active": true
-        },
         "0.3.4": {
             "active": true
         },
