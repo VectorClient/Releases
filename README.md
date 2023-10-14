@@ -7,7 +7,7 @@ I recommend to use [fate-injector](https://github.com/fligger/FateInjector) to u
 %localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Vector\configs
 ```
 
-## Custom Kill KillSults location
+## Custom KillSults location
 ```
 %localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Vector\custom_message.txt
 ```
